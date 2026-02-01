@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+
+# Project Specific (Generated Data)
+stream_input/
+checkpoints/
+iceberg_warehouse/
+spark-warehouse/
+saved_streaming_model/
+logs/
+*.log
+
+# System
+.DS_Store
+Thumbs.db
