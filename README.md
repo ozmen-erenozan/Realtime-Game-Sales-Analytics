@@ -1,4 +1,4 @@
-# Realtime Game Sales Analytics 🎮
+# Realtime Game Sales Analytics
 
 Bu proje, video oyun satış verilerini simüle eden, **Apache Spark** ve **Iceberg** kullanarak işleyen ve **Streamlit** ile canlı olarak görselleştiren bir büyük veri analitik platformudur.
 
